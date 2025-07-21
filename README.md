@@ -16,7 +16,7 @@ git clone https://github.com/ledangquangdangquang/PSO-Algorithm.git
 
 
 ## Explain 
-This project estimate multipath in mobile channel SIMO. This contain paramenter:
+This project estimate multipath in mobile channel SIMO. This contain paramenters:
 - Alpha (amplitude)
 - Doppler (effect)
 - Omega (angle)
