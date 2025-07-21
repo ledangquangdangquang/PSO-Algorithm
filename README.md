@@ -7,8 +7,10 @@
 > Project under construction.
 
 ## Run in Matlab 
-- Download project
-    git clone https://github.com/ledangquangdangquang/PSO-Algorithm.git
+- Download Project
+```bash
+git clone https://github.com/ledangquangdangquang/PSO-Algorithm.git
+```
 - Download channel data in realse
 - Run file `all25.m` in matlab ide
 
